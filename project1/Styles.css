@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+}
+.centre_text {
+    text-align: center;
+}
+.block {
+    background-color: antiquewhite;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 10%;
+    border: solid black;
+}
+
+.big_block {
+    margin-left: 20%;
+    margin-right: 20%;
+    border: solid black;
+    text-align: justify;
+}
+td {
+    background-color: antiquewhite;
+    margin-left: 1%;
+    border: solid black;
+}
